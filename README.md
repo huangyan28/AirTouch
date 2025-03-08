@@ -2,10 +2,6 @@
 
 <h1>AirTouch: A Low-Cost Versatile Visuotactile Feedback System for Enhanced Robotic Teleoperation</h1>
 
-<h4 align="center">
-  <a href="https://doi.org/10.1609/aaai.v38i4.28166" target='_blank'>[Paper Page]</a> 
-</h4>
-
 </div>
 
 <div>
@@ -21,6 +17,7 @@ git clone https://github.com/huangyan28/AirTouch.git
 cd KeypointFusion
 pip install -r ./requirements.txt
 ```
+## Train Dataset
 
 ```bash
 python train_rgbd.py
